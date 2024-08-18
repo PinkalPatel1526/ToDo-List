@@ -1,0 +1,97 @@
+
+body {
+    background-color: #FEFAF6 !important;
+    font-family: "Josefin Sans", sans-serif !important;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.card {
+    width: 33rem !important;
+    padding: 0 !important;
+}
+
+.main-box {
+    margin-top: 6.5rem !important;
+
+
+}
+
+.task-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.task {
+    display: flex !important;
+    margin-left: 0.5rem;
+    font-size: 1.3em;
+}
+
+.nav {
+    height: 3rem !important;
+}
+
+.card-header {
+    background-color: #EADBC8 !important;
+
+}
+
+/* nav bar */
+
+.nav {
+    background-color: #DAC0A3 !important;
+}
+
+.navbar {
+    background-color: #B0A695 !important;
+}
+
+.navbar-brand i {
+    font-size: 1.5em;
+}
+
+.navbar-nav a {
+    font-size: 1.1em;
+}
+.navbar-nav button {
+    font-size: 1.1em;
+    border: none;
+    background-color: #B0A695;
+    margin-top: 0.59rem;
+}
+
+
+/* task list */
+
+.task-list {
+    background-color: #F0EBE3;
+}
+
+.in-task {
+    width: 27.5rem !important;
+    height: 3rem;
+    margin-left: 0.1rem;
+    border-radius: 0.4rem;
+    border: none;
+}
+
+.form-task {
+    display: flex;
+}
+
+.btn i {
+    font-size: 1.5em;
+    margin-left: 0.2rem;
+
+}
+
+.task-list button i {
+    margin-right: 0.9rem;
+}
+
+.btn i:hover {
+    font-size: 1.7em;
+    opacity: 0.5;
+}
